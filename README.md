@@ -62,7 +62,7 @@ force-app/
 
 ## 📌 Demo & Documentation
 - [  ] Add demo video link
-- [ https://github.com/Neerja13/Handsmen-Threads/tree/main/Documentation ] Documentation
+-  Documentation : [ https://drive.google.com/file/d/12TcshhYzd8vElja8tENb9-W_FVEgpvVh/view?usp=sharing ]
 
 ## 📬 Contributing / Feedback
 Open an issue or pull request to collaborate or suggest improvements.
